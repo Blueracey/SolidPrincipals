@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SolidPrincipals.iml" filepath="$PROJECT_DIR$/SolidPrincipals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solved/Solved.iml" filepath="$PROJECT_DIR$/Solved/Solved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Violated/Violated.iml" filepath="$PROJECT_DIR$/Violated/Violated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solved/singleResponcibilitySolved/singleResponcibilitySolved.iml" filepath="$PROJECT_DIR$/Solved/singleResponcibilitySolved/singleResponcibilitySolved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Violated/singleResponcibilityViolated/singleResponcibilityViolated.iml" filepath="$PROJECT_DIR$/Violated/singleResponcibilityViolated/singleResponcibilityViolated.iml" />
+    </modules>
+  </component>
+</project>
