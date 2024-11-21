@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/SolidPrincipals.iml" filepath="$PROJECT_DIR$/SolidPrincipals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Solved/Solved.iml" filepath="$PROJECT_DIR$/Solved/Solved.iml" />
       <module fileurl="file://$PROJECT_DIR$/Violated/Violated.iml" filepath="$PROJECT_DIR$/Violated/Violated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Violated/liskovsSubstitutionPrincipal/liskovsSubstitutionPrincipal.iml" filepath="$PROJECT_DIR$/Violated/liskovsSubstitutionPrincipal/liskovsSubstitutionPrincipal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solved/liskovsSubstitutionPrincipalSolved/liskovsSubstitutionPrincipalSolved.iml" filepath="$PROJECT_DIR$/Solved/liskovsSubstitutionPrincipalSolved/liskovsSubstitutionPrincipalSolved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solved/openCLosedPrincipalSolved/openCLosedPrincipalSolved.iml" filepath="$PROJECT_DIR$/Solved/openCLosedPrincipalSolved/openCLosedPrincipalSolved.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Violated/openClosedPrincipal/openClosedPrincipal.iml" filepath="$PROJECT_DIR$/Violated/openClosedPrincipal/openClosedPrincipal.iml" />
       <module fileurl="file://$PROJECT_DIR$/Solved/singleResponcibilitySolved/singleResponcibilitySolved.iml" filepath="$PROJECT_DIR$/Solved/singleResponcibilitySolved/singleResponcibilitySolved.iml" />
       <module fileurl="file://$PROJECT_DIR$/Violated/singleResponcibilityViolated/singleResponcibilityViolated.iml" filepath="$PROJECT_DIR$/Violated/singleResponcibilityViolated/singleResponcibilityViolated.iml" />
     </modules>

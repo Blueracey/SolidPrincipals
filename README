@@ -1,0 +1,33 @@
+So this is series of Java program that demonstrate SOLID principals
+
+
+the principals these programs demonstrate are
+
+
+
+Liskov's Substitution Principal
+
+    Liskov's principals dictates that a classes subclass should be replaceable by it's parent. as in they should take the same parameters without things going wrong
+
+    in the example hourly and commission payment use different Permeates to be calculate. where Hourly needs the pay per hour and the amount of hours worked
+    commission needs the total price of the commission and a bonus. pay per hour being the parent means that we have an hour variable that is not declared when we are calculating for commission
+
+    to fix this we make payment an abstract class and make both hourly and commission payments children of that class.
+
+
+OpenClosed Principal
+
+    The open close principal dedicated that code should be open for extension but closed for modification.
+    in practise what this means is that you set up your code to be able to add new functionality without modifying the existing functionality
+
+    in the example we use a if else statement to check what kind of fruit we are pricing this would mean if we wanted to add a new kind of fruit
+    we would have to modify all of the exising code to add say grape as we would have to add an additional if else statement
+
+    to fix this we make fruit an abstract class and make each individual fruit it's own child of the parent fruit class in doing so we eliminate he if else tree and can add new types of fruits just by adding new children to the class
+
+
+Single Responsibility principal
+
+    The SRP dictates that any class should only be responsible for one thing
+    in our example the Invoices class is responsible for both calculating the cost and printing to the user
+    to fix this we create a class called InvoicePrinter to offload responsibility elsewhere
